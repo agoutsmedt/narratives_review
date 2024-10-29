@@ -1,4 +1,6 @@
 
 
 # Test 
-pint("yes?")
+print("yes?")
+
+test <- c('pomme', 'poire', 'abricot')
